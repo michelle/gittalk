@@ -1,4 +1,4 @@
-Fun With Birthdays
+Fun with birthdays
 ==================
 
 Usually some important (read: droll) documentation lies in the README.
